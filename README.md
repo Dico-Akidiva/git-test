@@ -1,0 +1,1 @@
+This is Dico's first git project!
